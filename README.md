@@ -1,3 +1,1 @@
-<p>
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20There&textBg=true&section=footer&reversal=true&strokeWidth=6">
-</p>
+https://github-readme-stats.vercel.app/api?username=Genesispro-maker&theme=dark&show_icons=true&hide_border=false&count_private=true
