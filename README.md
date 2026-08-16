@@ -1,2 +1,2 @@
-18|polymath
+18 | polymath
 
