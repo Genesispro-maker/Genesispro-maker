@@ -1,4 +1,4 @@
-Front-end Engineer | React, Next.js & TypeScript
+Software Engineer | React, Next.js & TypeScript
 
 **Projects**
 - 🎨 [I0](https://github.com/Genesispro-maker/I0) — AI-powered UI code generator that turns natural-language prompts into React components.
