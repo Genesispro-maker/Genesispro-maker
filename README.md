@@ -1,4 +1,4 @@
-Software Engineer | React, Next.js & TypeScript - Currently learning Go by building (https://github.com/Genesispro-maker/Deploy.io)
+Software Engineer | React, Next.js & TypeScript - Currently learning Go by building [Deploy.io](https://github.com/Genesispro-maker/Deploy.io)
 
 **Projects**
 - 🎨 [I0](https://github.com/Genesispro-maker/I0) — AI-powered UI code generator that turns natural-language prompts into React components.
